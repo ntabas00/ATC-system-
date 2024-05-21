@@ -1,2 +1,1 @@
-# ATCpros
-hi :) 
+The project focused on developing a simplified real-time Air Traffic Control (ATC) system in C++ using the QNX operating system. Key components included real-time aircraft tracking, collision avoidance, and control mechanisms implemented with multithreading and message passing. Despite challenges with QNX installation and threading, I learned valuable lessons about real-time system programming and project management.
